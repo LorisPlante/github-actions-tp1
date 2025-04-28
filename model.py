@@ -17,6 +17,9 @@ def predict_sentiment (text) :
     """
     prsq j'adore ce
     """
+    """
+    encore,encore,encore
+    """
     return "neutral"
 
     """
