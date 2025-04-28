@@ -90,4 +90,6 @@
         Returns:
             str: Sentiment label - "positive", "negative", or "neutral".
         
+## Qst 40
 
+    le temps du deuxième build est moins long que le premier car il utilise le cache mit en place par le premie buidl
