@@ -24,3 +24,9 @@
 ## Qst 18
 
     les tests s'effectuent et un commentaire de github-actions s'affiche 
+
+## Qst 21
+
+    le badge s'affiche sur le readme
+
+## 
