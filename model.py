@@ -5,6 +5,7 @@ def predict_sentiment (text) :
 
     Returns:
         _type_: _description_
+        modif
     """
     if "happy" in text. lower() or "good" in text. lower () :
         return "positive"
