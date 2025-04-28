@@ -13,3 +13,7 @@
 # Qst 13
 
     le actions fonctinne toujours et test sur les 3 versions
+
+# Qst 16
+
+    Le lint s'effectue et passe correctement
