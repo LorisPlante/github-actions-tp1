@@ -51,3 +51,10 @@
     Model accuracy: 0.881
     ❌ Model accuracy below threshold (0.9)
     Error: Process completed with exit code 1.
+
+## Qst 33
+
+    Run echo "Running tests in dev environment"
+    echo "Running tests in dev environment"
+    shell: /usr/bin/bash -e {0}
+    Running tests in dev environment
