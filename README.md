@@ -32,3 +32,12 @@
 ## Qst 24
 
     Un nouveau workflow "Docker Build" se déclenche, il build l'image Docker il exécute le conteneur et affiche la sortie (predict_sentiment).
+
+## Qst 27
+
+    {
+    "accuracy": 0.989,
+    "precision": 0.857,
+    "recall": 0.883,
+    "f1_score": 0.9
+    }
