@@ -61,14 +61,14 @@
 
 ## Qst 36 
 
-    il y a la release v1.0.1 (car j'ai raté la v1.0.0)
+    Il y a la release v1.0.1 (car j'ai raté la v1.0.0)
     avec deux fichiers compressés :
         Source code (zip)
         Source code (tar.gz)
 
 ## Qst 38
 
-    contenu de la doc : 
+    Contenu de la doc : 
         
         <a id="model"></a>
 
@@ -92,4 +92,13 @@
         
 ## Qst 40
 
-    le temps du deuxième build est moins long que le premier car il utilise le cache mit en place par le premie buidl
+    Le temps du deuxième build est moins long que le premier car il utilise le cache mit en place par le premie buidl
+
+## Qst 42
+
+    Les jobs s'effecruent dans un certains ordre, voir en meme temps, en attendant la validation du précédent
+
+## Qst 44
+
+    Les workflows s'executent dans l'ordre : test => evaluate => package => deploy-dev => deploy-prod
+    Je pense que cette structure est bonne pour un projet réel
