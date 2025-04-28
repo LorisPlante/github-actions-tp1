@@ -65,3 +65,29 @@
     avec deux fichiers compressés :
         Source code (zip)
         Source code (tar.gz)
+
+## Qst 38
+
+    contenu de la doc : 
+        
+        <a id="model"></a>
+
+        # model
+
+        <a id="model.predict_sentiment"></a>
+
+        #### predict\_sentiment
+
+        ```python
+        def predict_sentiment(text: str) -> str
+        ```
+
+        Predicts the sentiment of a given text.
+
+        Args:
+            text (str): The input text to analyze.
+
+        Returns:
+            str: Sentiment label - "positive", "negative", or "neutral".
+        
+
