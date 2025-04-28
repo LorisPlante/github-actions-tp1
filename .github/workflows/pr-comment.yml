@@ -1,14 +1,17 @@
 name: PR Comment
+
 permissions:
   pull-requests: write
+
 on:
   pull_request:
     types: [opened]
+
 jobs:
   comment:
     runs-on: ubuntu-latest
     steps:
-      - name: Comment on PR
+    - name: Comment on PR
     uses: actions/github-script@v6
     with:
       script: |
