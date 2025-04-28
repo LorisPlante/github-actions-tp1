@@ -41,3 +41,13 @@
     "recall": 0.883,
     "f1_score": 0.9
     }
+
+## Qst 30
+
+    Model accuracy: 0.861
+    ❌ Model accuracy below threshold (0.9)
+    Error: Process completed with exit code 1.
+
+    Model accuracy: 0.881
+    ❌ Model accuracy below threshold (0.9)
+    Error: Process completed with exit code 1.
