@@ -3,19 +3,19 @@
 
 ## Qst 8
 
-    ca rajoute dans actions
+    Un workflow "Hello World" est déclenché et marqué Success
 
 ## Qst 10
 
-    ca rajoute dans actions
+    Un nouveau job "Run Tests" s'exécute et tes tests passent 
 
 ## Qst 11
 
-    Error: Process completed with exit code 1.
+    Le job "Run Tests" échoue
 
-## Qst 13
+## Qst 14
 
-    le actions fonctinne toujours et test sur les 3 versions
+    Trois jobs sont exécutés en parallèle avec les 3 versions renseignées
 
 ## Qst 16
 
@@ -23,10 +23,12 @@
 
 ## Qst 18
 
-    les tests s'effectuent et un commentaire de github-actions s'affiche 
+    Les tests s'effectuent et un commentaire de github-actions s'affiche 
 
 ## Qst 21
 
-    le badge s'affiche sur le readme
+    Le badge s'affiche sur le readme
 
-## 
+## Qst 24
+
+    Un nouveau workflow "Docker Build" se déclenche, il build l'image Docker il exécute le conteneur et affiche la sortie (predict_sentiment).
