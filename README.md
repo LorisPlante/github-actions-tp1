@@ -12,4 +12,4 @@
 
 # Qst 13
 
-    le actions fonctinne toujours
+    le actions fonctinne toujours et test sur les 3 versions

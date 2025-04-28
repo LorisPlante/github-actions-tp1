@@ -1,7 +1,11 @@
 def predict_sentiment (text) :
     if not text:
         return "neutral"
-    # test de commentaire model
+    """_summary_
+
+    Returns:
+        _type_: _description_
+    """
     if "happy" in text. lower() or "good" in text. lower () :
         return "positive"
     if "sad" in text. lower () or "bad" in text. lower () :
