@@ -11,9 +11,7 @@ def predict_sentiment (text) :
         return "positive"
     if "sad" in text. lower () or "bad" in text. lower () :
         return "negative"
-    """
-    encore plus de comm
-    """
+    
     """
     prsq j'adore ce
     """
