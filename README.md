@@ -58,3 +58,10 @@
     echo "Running tests in dev environment"
     shell: /usr/bin/bash -e {0}
     Running tests in dev environment
+
+## Qst 36 
+
+    il y a la release v1.0.1 (car j'ai raté la v1.0.0)
+    avec deux fichiers compressés :
+        Source code (zip)
+        Source code (tar.gz)
