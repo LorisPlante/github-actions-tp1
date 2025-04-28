@@ -1,0 +1,11 @@
+loaders:
+  - type: python
+    search_path: ["."]
+    modules: ["model"]
+
+processors:
+  - type: filter
+    documented_only: true
+
+renderers:
+  - type: markdown
