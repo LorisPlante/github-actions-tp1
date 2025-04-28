@@ -1,5 +1,5 @@
 # MLOps GitHub Actions TP
-![Build Status](https://github.com/LorisPlante/mlops-github-actions-tp/actions/workflows/badge.yml/badge.svg)
+![Build Status](https://github.com/LorisPlante/github-actions-tp1/actions/workflows/badge.yml/badge.svg)
 
 ## Qst 8
 
