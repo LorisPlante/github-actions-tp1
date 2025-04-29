@@ -8,6 +8,7 @@ def test_predict_negative():
 
     Returns:
         _type_: _description_
+        ici j'ai fais des modifs
     """
 def test_predict_neutral():
     assert predict_sentiment("The sky is blue") == "neutral"
